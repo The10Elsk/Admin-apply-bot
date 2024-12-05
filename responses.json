@@ -1,0 +1,12 @@
+{
+    "applyPrompt": "اضغط على الزر لتقديم طلبك.",
+    "applyblock": "أنت محظور من تقديم طلب.",
+    "alreadyApplied": "لقد قمت بتقديم طلب مسبقًا.",
+    "channelOpened": "تم فتح روم التقديم بنجاح.",
+    "approveMessage": "تمت الموافقة على الطلب وتم إضافة الرتبة بنجاح.",
+    "rejectMessage": "تم رفض الطلب.",
+    "deleteMessage": "تم حذف الطلب.",
+    "banMessage": "تم حظر العضو.",
+    "sendSuccess": "تم إرسال طلبك بنجاح."
+  }
+  
